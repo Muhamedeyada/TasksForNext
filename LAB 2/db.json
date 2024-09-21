@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Getting Started with Next.js",
+      "content": "This post introduces the basics of Next.js and how to get started with building your first application.",
+      "authorId": "user1@example.com",
+      "createdAt": "2024-01-01T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Understanding React Hooks",
+      "content": "In this post, we explore the concept of hooks in React, including useState and useEffect.",
+      "authorId": "user2@example.com",
+      "createdAt": "2024-02-01T11:00:00Z"
+    },
+    {
+      "id": "396e",
+      "title": "Advanced JavaScript Concepts",
+      "content": "A deep dive into advanced JavaScript features such as closures, promises, and async/await.",
+      "authorId": "momo.ahmed1@gmail.com",
+      "createdAt": "2024-03-01T12:00:00Z"
+    },
+    {
+      "id": "3aec",
+      "title": "CSS Grid vs Flexbox",
+      "content": "Comparing CSS Grid and Flexbox for layout design: when to use each and best practices.",
+      "authorId": "momo.ahmed3@gmail.com",
+      "createdAt": "2024-04-01T13:00:00Z"
+    },
+    {
+      "id": "d610",
+      "title": "Understanding APIs",
+      "content": "This post covers the basics of APIs, how to make requests, and handle responses effectively.",
+      "authorId": "mohamed.ayada.ma@gmail.com",
+      "createdAt": "2024-05-01T14:00:00Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "user1@example.com",
+      "name": "User One"
+    },
+    {
+      "id": "user2@example.com",
+      "name": "User Two"
+    }
+  ]
+}
